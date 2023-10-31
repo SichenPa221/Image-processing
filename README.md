@@ -1,7 +1,7 @@
 # Image-processing
 
 ## PALM microscopy method
-In this lab, we have developed a program for the estimation of the position of an isolated emitter as part of the PALM microscopy method.
+In this lab work, we have developed a program for the estimation of the position of an isolated emitter as part of the PALM microscopy method.
 
 For this purpose, after a proper mathematical modelization of our noisy signal, we defined and expressed the Cramer Rao lower bound (CRLB) and its variation with respect to the parameter θ, to demonstrate the relation between the estimator’s variance and the CRLB, where estimator’s efficiency depends on the estimated value itself, θ. 
 
